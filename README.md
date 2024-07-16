@@ -73,7 +73,38 @@ lib/
 |-- enums/         # Contains enumeration classes
 |-- main.dart      # Entry point of the application
 ```
+screenshots
 
+
+<p align="center">
+  <img src="https://github.com/Yacine300/FSEI-Gestion-des-Relations-avec-Enseignants/blob/main/screenshots/1.png" width="250" alt="Image 1">
+  <img src="https://github.com/Yacine300/FSEI-Gestion-des-Relations-avec-Enseignants/blob/main/screenshots/2.png" width="250" alt="Image 2">
+  <img src="https://github.com/Yacine300/FSEI-Gestion-des-Relations-avec-Enseignants/blob/main/screenshots/3.png" width="250" alt="Image 3">
+</p>
+
+
+<p>&nbsp;</p>
+
+<p align="center">
+  <img src="https://github.com/Yacine300/FSEI-Gestion-des-Relations-avec-Enseignants/blob/main/screenshots/4.png" width="250" alt="Image 4">
+  <img src="https://github.com/Yacine300/FSEI-Gestion-des-Relations-avec-Enseignants/blob/main/screenshots/5.png" width="250" alt="Image 5">
+  <img src="https://github.com/Yacine300/FSEI-Gestion-des-Relations-avec-Enseignants/blob/main/screenshots/6.png" width="250" alt="Image 6">
+</p>
+
+<p align="center">
+  <img src="https://github.com/Yacine300/FSEI-Gestion-des-Relations-avec-Enseignants/blob/main/screenshots/7.png" width="250" alt="Image 7">
+  <img src="https://github.com/Yacine300/FSEI-Gestion-des-Relations-avec-Enseignants/blob/main/screenshots/8.png" width="250" alt="Image 8">
+  <img src="https://github.com/Yacine300/FSEI-Gestion-des-Relations-avec-Enseignants/blob/main/screenshots/9.png" width="250" alt="Image 9">
+</p>
+
+
+<p>&nbsp;</p>
+
+<p align="center">
+  <img src="https://github.com/Yacine300/FSEI-Gestion-des-Relations-avec-Enseignants/blob/main/screenshots/10.png" width="250" alt="Image 10">
+  <img src="https://github.com/Yacine300/FSEI-Gestion-des-Relations-avec-Enseignants/blob/main/screenshots/11.png" width="250" alt="Image 11">
+  <img src="https://github.com/Yacine300/FSEI-Gestion-des-Relations-avec-Enseignants/blob/main/screenshots/12.png" width="250" alt="Image 12">
+</p>
 ## Contributing
 
 We welcome contributions from the community. To contribute, follow these steps:
