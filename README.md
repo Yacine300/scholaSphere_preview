@@ -77,24 +77,24 @@ screenshots
 
 
 <p align="center">
-  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/screenshots/1.png" width="250" alt="Image 1">
-  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/screenshots/2.png" width="250" alt="Image 2">
-  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/screenshots/3.png" width="250" alt="Image 3">
+  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/1.png" width="250" alt="Image 1">
+  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/2.png" width="250" alt="Image 2">
+  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/3.png" width="250" alt="Image 3">
 </p>
 
 
 <p>&nbsp;</p>
 
 <p align="center">
-  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/screenshots/4.png" width="250" alt="Image 4">
-  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/screenshots/5.png" width="250" alt="Image 5">
-  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/screenshots/6.png" width="250" alt="Image 6">
+  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/4.png" width="250" alt="Image 4">
+  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/5.png" width="250" alt="Image 5">
+  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/6.png" width="250" alt="Image 6">
 </p>
 
 <p align="center">
-  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/screenshots/7.png" width="250" alt="Image 7">
-  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/screenshots/8.png" width="250" alt="Image 8">
-  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/screenshots/9.png" width="250" alt="Image 9">
+  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/7.png" width="250" alt="Image 7">
+  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/8.png" width="250" alt="Image 8">
+  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/9.png" width="250" alt="Image 9">
 </p>
 
 
@@ -102,45 +102,45 @@ screenshots
 
 <p align="center">
 <<<<<<< HEAD
-  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/screenshots/14.png" width="250" alt="Image 14">
-  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/screenshots/15.png" width="250" alt="Image 15">
-  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/screenshots/16.png" width="250" alt="Image 16">
+  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/14.png" width="250" alt="Image 14">
+  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/15.png" width="250" alt="Image 15">
+  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/16.png" width="250" alt="Image 16">
 =======
-  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/screenshots/14.png" width="250" alt="Image 10">
-  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/screenshots/15.png" width="250" alt="Image 11">
-  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/screenshots/16.png" width="250" alt="Image 12">
+  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/14.png" width="250" alt="Image 10">
+  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/15.png" width="250" alt="Image 11">
+  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/16.png" width="250" alt="Image 12">
 >>>>>>> 26043fbd1027a974adeb6f7dd808b742ec84e236
 </p>
 
 <p align="center">
-  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/screenshots/10.png" width="250" alt="Image 10">
-  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/screenshots/11.png" width="250" alt="Image 11">
-  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/screenshots/112.png" width="250" alt="Image 12">
+  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/10.png" width="250" alt="Image 10">
+  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/11.png" width="250" alt="Image 11">
+  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/12.png" width="250" alt="Image 12">
 </p>
 
 <p>&nbsp;</p>
 
 <p align="center">
 <<<<<<< HEAD
-  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/screenshots/17.png" width="250" alt="Image 17">
-  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/screenshots/18.png" width="250" alt="Image 18">
-  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/screenshots/19.png" width="250" alt="Image 19">
+  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/17.png" width="250" alt="Image 17">
+  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/18.png" width="250" alt="Image 18">
+  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/19.png" width="250" alt="Image 19">
 </p>
 
 <p align="center">
-  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/screenshots/20.png" width="250" alt="Image 20">
-  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/screenshots/21.png" width="250" alt="Image 21">
-  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/screenshots/22.png" width="250" alt="Image 22">
+  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/20.png" width="250" alt="Image 20">
+  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/21.png" width="250" alt="Image 21">
+  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/22.png" width="250" alt="Image 22">
 =======
-  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/screenshots/17.png" width="250" alt="Image 4">
-  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/screenshots/18.png" width="250" alt="Image 5">
-  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/screenshots/19.png" width="250" alt="Image 6">
+  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/17.png" width="250" alt="Image 4">
+  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/18.png" width="250" alt="Image 5">
+  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/19.png" width="250" alt="Image 6">
 </p>
 
 <p align="center">
-  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/screenshots/20.png" width="250" alt="Image 7">
-  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/screenshots/21.png" width="250" alt="Image 8">
-  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/screenshots/22.png" width="250" alt="Image 9">
+  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/20.png" width="250" alt="Image 7">
+  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/21.png" width="250" alt="Image 8">
+  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/22.png" width="250" alt="Image 9">
 >>>>>>> 26043fbd1027a974adeb6f7dd808b742ec84e236
 </p>
 
@@ -149,13 +149,13 @@ screenshots
 
 <p align="center">
 <<<<<<< HEAD
-  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/screenshots/23.png" width="250" alt="Image 23">
-  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/screenshots/24.png" width="250" alt="Image 24">
-  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/screenshots/25.png" width="250" alt="Image 25">
+  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/23.png" width="250" alt="Image 23">
+  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/24.png" width="250" alt="Image 24">
+  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/25.png" width="250" alt="Image 25">
 =======
-  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/screenshots/23.png" width="250" alt="Image 10">
-  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/screenshots/24.png" width="250" alt="Image 11">
-  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/screenshots/25.png" width="250" alt="Image 12">
+  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/23.png" width="250" alt="Image 10">
+  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/24.png" width="250" alt="Image 11">
+  <img src="https://github.com/Yacine300/scholaSphere_preview/blob/main/25.png" width="250" alt="Image 12">
 >>>>>>> 26043fbd1027a974adeb6f7dd808b742ec84e236
 </p>
 ## Contributing
