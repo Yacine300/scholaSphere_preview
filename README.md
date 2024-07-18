@@ -101,9 +101,15 @@ screenshots
 <p>&nbsp;</p>
 
 <p align="center">
+<<<<<<< HEAD
   <img src="https://github.com/Yacine300/FSEI-Gestion-des-Relations-avec-Enseignants/blob/main/screenshots/14.png" width="250" alt="Image 14">
   <img src="https://github.com/Yacine300/FSEI-Gestion-des-Relations-avec-Enseignants/blob/main/screenshots/15.png" width="250" alt="Image 15">
   <img src="https://github.com/Yacine300/FSEI-Gestion-des-Relations-avec-Enseignants/blob/main/screenshots/16.png" width="250" alt="Image 16">
+=======
+  <img src="https://github.com/Yacine300/FSEI-Gestion-des-Relations-avec-Enseignants/blob/main/screenshots/14.png" width="250" alt="Image 10">
+  <img src="https://github.com/Yacine300/FSEI-Gestion-des-Relations-avec-Enseignants/blob/main/screenshots/15.png" width="250" alt="Image 11">
+  <img src="https://github.com/Yacine300/FSEI-Gestion-des-Relations-avec-Enseignants/blob/main/screenshots/16.png" width="250" alt="Image 12">
+>>>>>>> 26043fbd1027a974adeb6f7dd808b742ec84e236
 </p>
 
 <p align="center">
@@ -115,6 +121,7 @@ screenshots
 <p>&nbsp;</p>
 
 <p align="center">
+<<<<<<< HEAD
   <img src="https://github.com/Yacine300/FSEI-Gestion-des-Relations-avec-Enseignants/blob/main/screenshots/17.png" width="250" alt="Image 17">
   <img src="https://github.com/Yacine300/FSEI-Gestion-des-Relations-avec-Enseignants/blob/main/screenshots/18.png" width="250" alt="Image 18">
   <img src="https://github.com/Yacine300/FSEI-Gestion-des-Relations-avec-Enseignants/blob/main/screenshots/19.png" width="250" alt="Image 19">
@@ -124,15 +131,32 @@ screenshots
   <img src="https://github.com/Yacine300/FSEI-Gestion-des-Relations-avec-Enseignants/blob/main/screenshots/20.png" width="250" alt="Image 20">
   <img src="https://github.com/Yacine300/FSEI-Gestion-des-Relations-avec-Enseignants/blob/main/screenshots/21.png" width="250" alt="Image 21">
   <img src="https://github.com/Yacine300/FSEI-Gestion-des-Relations-avec-Enseignants/blob/main/screenshots/22.png" width="250" alt="Image 22">
+=======
+  <img src="https://github.com/Yacine300/FSEI-Gestion-des-Relations-avec-Enseignants/blob/main/screenshots/17.png" width="250" alt="Image 4">
+  <img src="https://github.com/Yacine300/FSEI-Gestion-des-Relations-avec-Enseignants/blob/main/screenshots/18.png" width="250" alt="Image 5">
+  <img src="https://github.com/Yacine300/FSEI-Gestion-des-Relations-avec-Enseignants/blob/main/screenshots/19.png" width="250" alt="Image 6">
+</p>
+
+<p align="center">
+  <img src="https://github.com/Yacine300/FSEI-Gestion-des-Relations-avec-Enseignants/blob/main/screenshots/20.png" width="250" alt="Image 7">
+  <img src="https://github.com/Yacine300/FSEI-Gestion-des-Relations-avec-Enseignants/blob/main/screenshots/21.png" width="250" alt="Image 8">
+  <img src="https://github.com/Yacine300/FSEI-Gestion-des-Relations-avec-Enseignants/blob/main/screenshots/22.png" width="250" alt="Image 9">
+>>>>>>> 26043fbd1027a974adeb6f7dd808b742ec84e236
 </p>
 
 
 <p>&nbsp;</p>
 
 <p align="center">
+<<<<<<< HEAD
   <img src="https://github.com/Yacine300/FSEI-Gestion-des-Relations-avec-Enseignants/blob/main/screenshots/23.png" width="250" alt="Image 23">
   <img src="https://github.com/Yacine300/FSEI-Gestion-des-Relations-avec-Enseignants/blob/main/screenshots/24.png" width="250" alt="Image 24">
   <img src="https://github.com/Yacine300/FSEI-Gestion-des-Relations-avec-Enseignants/blob/main/screenshots/25.png" width="250" alt="Image 25">
+=======
+  <img src="https://github.com/Yacine300/FSEI-Gestion-des-Relations-avec-Enseignants/blob/main/screenshots/23.png" width="250" alt="Image 10">
+  <img src="https://github.com/Yacine300/FSEI-Gestion-des-Relations-avec-Enseignants/blob/main/screenshots/24.png" width="250" alt="Image 11">
+  <img src="https://github.com/Yacine300/FSEI-Gestion-des-Relations-avec-Enseignants/blob/main/screenshots/25.png" width="250" alt="Image 12">
+>>>>>>> 26043fbd1027a974adeb6f7dd808b742ec84e236
 </p>
 ## Contributing
 
@@ -146,6 +170,5 @@ We welcome contributions from the community. To contribute, follow these steps:
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
 <img src="https://github.com/Yacine300/FSEI-Gestion-des-Relations-avec-Enseignants/blob/main/assets/id/id_2.png" alt="ScholaSphere">
